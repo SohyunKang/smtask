@@ -14,6 +14,13 @@ from SegDataset import SegDataset
 from model import AttentionUNet
 
 from sklearn.model_selection import KFold
+import argparse
+
+def get_args():
+    parser = argparse.ArgumentParser(description="K-Fold Training")
+    parser.add_argument('--fold', type=int, default=0, help='Fold index (0 ~ K-1)')
+    args = parser.parse_args()
+    return args
 
 # 디바이스 설정
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -29,13 +36,14 @@ if torch.cuda.is_available():
     print("Memory Cached:   ", round(torch.cuda.memory_reserved(0)/1024**2, 1), "MB")
 
 K = 5
-img_dir = Path(r"C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Original_Benign")
-mask_dir = Path(r"C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign")
+img_dir = Path("./MT-Small-Dataset/Benign/Original_Benign")
+mask_dir = Path("./MT-Small-Dataset/Benign/Ground_Truth_Benign")
 
 ## 세팅!
 save_root = './results/attention_unet'
 num_epochs = 50
-fold_idx = 2  # 0 ~ 4 (5-fold)
+args = get_args()
+fold_idx = args.fold
 seed = 42
 
 

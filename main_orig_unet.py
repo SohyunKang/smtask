@@ -14,7 +14,13 @@ from SegDataset import SegDataset
 from model import AttentionUNet
 
 from sklearn.model_selection import KFold
+import argparse
 
+def get_args():
+    parser = argparse.ArgumentParser(description="K-Fold Training")
+    parser.add_argument('--fold', type=int, default=0, help='Fold index (0 ~ K-1)')
+    args = parser.parse_args()
+    return args
 # 디바이스 설정
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("✅ Using device:", device)
@@ -29,13 +35,14 @@ if torch.cuda.is_available():
     print("Memory Cached:   ", round(torch.cuda.memory_reserved(0)/1024**2, 1), "MB")
 
 K = 5
-img_dir = Path(r"C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Original_Benign")
-mask_dir = Path(r"C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign")
+img_dir = Path("./MT-Small-Dataset/Benign/Original_Benign")
+mask_dir = Path("./MT-Small-Dataset/Benign/Ground_Truth_Benign")
 
 ## 세팅!
 save_root = './results/unet'
 num_epochs = 50
-fold_idx = 0  # 0 ~ 4 (5-fold)
+args = get_args()
+fold_idx = args.fold
 seed = 42
 
 
@@ -179,15 +186,15 @@ print(f"✅ Loaded best model from epoch {best_epoch} (val Dice: {best_val_dice:
 model.eval()
 test_dice = 0.0
 
-with torch.no_grad():
-    for images, masks in test_loader:
-        images, masks = images.to(device), masks.to(device)
-        preds = model(images)
-        preds_sigmoid = torch.sigmoid(preds)
-        score = dice_score(preds_sigmoid, masks)
+for images, masks in test_loader:
+    for i in range(images.size(0)):
+        pred = torch.sigmoid(model(images[i].unsqueeze(0).to(device)))
+        mask = masks[i].unsqueeze(0).to(device)
+        score = dice_score(pred, mask)
         test_dice += score.item()
+        count += 1
+avg_test_dice = test_dice / count
 
-avg_test_dice = test_dice / len(test_loader)
 print(f"\n🎯 Final Test Dice Score: {avg_test_dice:.4f}")
 
 # 평가 결과 저장

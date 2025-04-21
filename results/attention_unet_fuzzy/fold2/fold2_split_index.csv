@@ -1,201 +1,201 @@
 index,split,img_path,mask_path
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_096.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_096.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_016.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_016.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_031.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_031.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_159.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_159.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_129.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_129.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_116.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_116.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_070.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_070.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_171.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_171.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_175.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_175.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_046.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_046.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_067.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_067.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_183.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_183.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_166.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_166.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_079.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_079.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_187.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_187.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_178.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_178.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_057.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_057.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_153.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_153.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_083.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_083.png
--1,test,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_069.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_069.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_125.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_125.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_017.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_017.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_094.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_094.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_066.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_066.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_061.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_061.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_068.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_068.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_126.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_126.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_133.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_133.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_010.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_010.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_076.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_076.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_151.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_151.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_105.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_105.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_136.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_136.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_138.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_138.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_165.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_165.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_077.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_077.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_080.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_080.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_198.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_198.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_025.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_025.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_123.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_123.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_196.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_196.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_020.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_020.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_144.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_144.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_087.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_087.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_115.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_115.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_006.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_006.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_127.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_127.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_118.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_118.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_074.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_074.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_099.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_099.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_097.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_097.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_170.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_170.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_032.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_032.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_013.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_013.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_036.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_036.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_120.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_120.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_190.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_190.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_091.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_091.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_137.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_137.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_052.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_052.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_128.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_128.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_163.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_163.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_042.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_042.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_119.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_119.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_114.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_114.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_027.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_027.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_140.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_140.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_101.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_101.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_112.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_112.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_003.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_003.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_078.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_078.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_047.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_047.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_188.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_188.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_192.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_192.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_162.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_162.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_191.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_191.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_062.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_062.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_023.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_023.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_142.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_142.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_102.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_102.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_034.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_034.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_012.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_012.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_007.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_007.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_028.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_028.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_121.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_121.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_005.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_005.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_033.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_033.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_146.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_146.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_110.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_110.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_011.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_011.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_063.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_063.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_113.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_113.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_147.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_147.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_001.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_001.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_199.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_199.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_154.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_154.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_071.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_071.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_124.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_124.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_065.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_065.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_045.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_045.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_029.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_029.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_109.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_109.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_156.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_156.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_157.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_157.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_024.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_024.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_185.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_185.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_148.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_148.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_082.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_082.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_040.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_040.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_169.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_169.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_095.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_095.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_155.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_155.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_044.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_044.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_004.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_004.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_054.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_054.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_134.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_134.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_181.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_181.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_179.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_179.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_186.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_186.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_050.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_050.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_035.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_035.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_008.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_008.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_111.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_111.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_092.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_092.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_084.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_084.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_177.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_177.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_182.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_182.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_009.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_009.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_014.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_014.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_060.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_060.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_172.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_172.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_132.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_132.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_018.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_018.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_073.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_073.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_176.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_176.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_135.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_135.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_168.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_168.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_184.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_184.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_064.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_064.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_055.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_055.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_197.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_197.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_059.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_059.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_049.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_049.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_089.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_089.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_058.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_058.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_161.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_161.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_038.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_038.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_158.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_158.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_194.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_194.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_002.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_002.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_150.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_150.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_131.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_131.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_104.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_104.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_100.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_100.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_117.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_117.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_088.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_088.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_122.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_122.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_021.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_021.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_189.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_189.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_072.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_072.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_107.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_107.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_093.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_093.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_180.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_180.png
--1,train,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_103.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_103.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_149.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_149.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_085.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_085.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_019.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_019.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_056.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_056.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_039.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_039.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_030.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_030.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_174.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_174.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_141.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_141.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_173.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_173.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_098.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_098.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_043.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_043.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_086.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_086.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_037.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_037.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_195.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_195.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_160.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_160.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_143.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_143.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_145.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_145.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_167.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_167.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_164.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_164.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_041.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_041.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_026.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_026.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_048.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_048.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_139.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_139.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_106.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_106.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_081.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_081.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_090.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_090.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_108.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_108.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_051.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_051.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_022.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_022.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_193.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_193.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_130.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_130.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_053.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_053.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_152.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_152.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_075.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_075.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_200.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_200.png
--1,val,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign\benign_Fuzzy_015.png,C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign\pixelLabel_015.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_096.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_096.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_016.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_016.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_031.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_031.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_159.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_159.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_129.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_129.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_116.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_116.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_070.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_070.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_171.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_171.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_175.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_175.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_046.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_046.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_067.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_067.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_183.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_183.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_166.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_166.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_079.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_079.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_187.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_187.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_178.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_178.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_057.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_057.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_153.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_153.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_083.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_083.png
+-1,test,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_069.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_069.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_125.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_125.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_017.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_017.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_094.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_094.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_066.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_066.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_061.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_061.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_068.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_068.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_126.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_126.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_133.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_133.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_010.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_010.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_076.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_076.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_151.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_151.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_105.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_105.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_136.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_136.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_138.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_138.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_165.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_165.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_077.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_077.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_080.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_080.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_198.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_198.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_025.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_025.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_123.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_123.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_196.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_196.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_020.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_020.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_144.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_144.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_087.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_087.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_115.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_115.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_006.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_006.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_127.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_127.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_118.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_118.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_074.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_074.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_099.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_099.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_097.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_097.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_170.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_170.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_032.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_032.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_013.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_013.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_036.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_036.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_120.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_120.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_190.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_190.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_091.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_091.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_137.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_137.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_052.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_052.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_128.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_128.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_163.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_163.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_042.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_042.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_119.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_119.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_114.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_114.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_027.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_027.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_140.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_140.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_101.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_101.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_112.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_112.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_003.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_003.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_078.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_078.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_047.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_047.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_188.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_188.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_192.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_192.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_162.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_162.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_191.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_191.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_062.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_062.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_023.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_023.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_142.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_142.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_102.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_102.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_034.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_034.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_012.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_012.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_007.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_007.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_028.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_028.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_121.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_121.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_005.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_005.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_033.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_033.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_146.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_146.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_110.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_110.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_011.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_011.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_063.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_063.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_113.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_113.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_147.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_147.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_001.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_001.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_199.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_199.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_154.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_154.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_071.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_071.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_124.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_124.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_065.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_065.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_045.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_045.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_029.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_029.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_109.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_109.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_156.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_156.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_157.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_157.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_024.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_024.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_185.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_185.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_148.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_148.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_082.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_082.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_040.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_040.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_169.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_169.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_095.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_095.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_155.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_155.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_044.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_044.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_004.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_004.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_054.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_054.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_134.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_134.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_181.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_181.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_179.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_179.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_186.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_186.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_050.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_050.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_035.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_035.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_008.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_008.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_111.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_111.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_092.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_092.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_084.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_084.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_177.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_177.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_182.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_182.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_009.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_009.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_014.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_014.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_060.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_060.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_172.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_172.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_132.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_132.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_018.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_018.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_073.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_073.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_176.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_176.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_135.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_135.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_168.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_168.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_184.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_184.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_064.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_064.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_055.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_055.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_197.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_197.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_059.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_059.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_049.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_049.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_089.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_089.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_058.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_058.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_161.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_161.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_038.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_038.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_158.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_158.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_194.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_194.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_002.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_002.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_150.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_150.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_131.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_131.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_104.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_104.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_100.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_100.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_117.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_117.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_088.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_088.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_122.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_122.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_021.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_021.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_189.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_189.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_072.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_072.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_107.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_107.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_093.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_093.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_180.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_180.png
+-1,train,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_103.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_103.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_149.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_149.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_085.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_085.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_019.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_019.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_056.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_056.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_039.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_039.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_030.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_030.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_174.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_174.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_141.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_141.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_173.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_173.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_098.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_098.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_043.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_043.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_086.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_086.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_037.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_037.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_195.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_195.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_160.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_160.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_143.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_143.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_145.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_145.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_167.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_167.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_164.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_164.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_041.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_041.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_026.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_026.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_048.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_048.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_139.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_139.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_106.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_106.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_081.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_081.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_090.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_090.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_108.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_108.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_051.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_051.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_022.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_022.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_193.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_193.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_130.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_130.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_053.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_053.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_152.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_152.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_075.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_075.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_200.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_200.png
+-1,val,MT-Small-Dataset/Benign/Fuzzy_Benign/benign_Fuzzy_015.png,MT-Small-Dataset/Benign/Ground_Truth_Benign/pixelLabel_015.png

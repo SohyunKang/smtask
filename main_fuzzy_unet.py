@@ -12,8 +12,15 @@ from utils import img_load, split_fixed_test, save_fold_split_index, log_fold_sc
 from utils import evaluate_and_save_metrics, visualize_and_save_predictions, save_loss_curve, dice_score
 from SegDataset import SegDataset
 from model import AttentionUNet
+import argparse
 
 from sklearn.model_selection import KFold
+
+def get_args():
+    parser = argparse.ArgumentParser(description="K-Fold Training")
+    parser.add_argument('--fold', type=int, default=0, help='Fold index (0 ~ K-1)')
+    args = parser.parse_args()
+    return args
 
 # 디바이스 설정
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -29,13 +36,14 @@ if torch.cuda.is_available():
     print("Memory Cached:   ", round(torch.cuda.memory_reserved(0)/1024**2, 1), "MB")
 
 K = 5
-img_dir = Path(r"C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Fuzzy_Benign")
-mask_dir = Path(r"C:\Users\Sohyun Kang\PycharmProjects\smtask\MT-Small-Dataset\Benign\Ground_Truth_Benign")
+img_dir = Path("./MT-Small-Dataset/Benign/Fuzzy_Benign")
+mask_dir = Path("./MT-Small-Dataset/Benign/Ground_Truth_Benign")
 
 ## 세팅!
-save_root = './results/unet'
+save_root = './results/unet_fuzzy'
 num_epochs = 50
-fold_idx = 0  # 0 ~ 4 (5-fold)
+args = get_args()
+fold_idx = args.fold
 seed = 42
 
 

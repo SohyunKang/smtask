@@ -245,3 +245,21 @@ def show_cv_summary_if_complete(csv_path, expected_folds=5):
 
     print("\n📁 상세 결과:")
     print(df)
+
+import torch
+import torch.nn as nn
+
+class TverskyLoss(nn.Module):
+    def __init__(self, alpha=0.7, beta=0.3, smooth=1e-5):
+        super(TverskyLoss, self).__init__()
+        self.alpha = alpha
+        self.beta = beta
+        self.smooth = smooth
+
+    def forward(self, pred, target):
+        pred = torch.sigmoid(pred)
+        TP = (pred * target).sum(dim=(1, 2, 3))
+        FP = (pred * (1 - target)).sum(dim=(1, 2, 3))
+        FN = ((1 - pred) * target).sum(dim=(1, 2, 3))
+        tversky = (TP + self.smooth) / (TP + self.alpha * FP + self.beta * FN + self.smooth)
+        return 1. - tversky.mean()
